@@ -10,4 +10,9 @@ print('Result:', pow(5, 4));
 print('Result:', round (5/2));
 # input() get data from user
 input("Enter your age")
-
+#создаем переменную. Can to change variable. Can to delete = del variable
+number = 5;
+print(number)
+digit = 4.539834
+word = 'Result ';
+print(word, digit)
